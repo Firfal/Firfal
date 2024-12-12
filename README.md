@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- Working on few projects as lidap.io
+- Looking for agencies to work with
+- Using Webflow / React and more
+
+Want to get in touch ? hello@quentinrobert.com
+
+
 <!--
 **Firfal/Firfal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
